@@ -104,7 +104,8 @@
     border-bottom: 1px solid #6298be;
     background: none;
 }
-.search button{
+
+.search button {
     border: 0px solid;
     background: none;
     color: #89aac0;
@@ -273,65 +274,151 @@
     font-size: 15px;
     color: #efefef;
 }
+
 /* main */
-.img-1{
+.img-1 {
     width: 100%;
     text-align: right;
 }
-.top-title{
+
+.top-title {
     position: absolute;
     top: 55px;
-    left:680px;
+    left: 680px;
 }
-.top-title h1{
+
+.top-title h1 {
     font-size: medium;
     color: #ffffff;
     background-color: #3184c6;
 }
-.mid-title-large{
+
+.mid-title-large {
     position: absolute;
     width: 30%;
     top: 75px;
     left: 450px;
 }
-.mid-title-large h1{
+
+.mid-title-large h1 {
     position: absolute;
     font-size: 20px;
 }
-.mid-title-small{
+
+.mid-title-small {
     position: absolute;
     width: 30%;
     left: 450px;
     top: 140px;
 }
+
 /* img-2 */
-.img-2{
+.img-2,
+.img-3 {
     width: 100%;
     text-align: right;
 }
-.top-title-2{
+
+.top-title-2 {
     position: absolute;
     top: 315px;
-    right:350px;
+    right: 350px;
 }
-.top-title-2 h1{
+
+.top-title-2 h1 {
     font-size: medium;
     color: #ffffff;
     background-color: #d51b1b;
 }
-.mid-title-large-2{
+
+.mid-title-large-2 {
     position: absolute;
     width: 30%;
     top: 330px;
-    right:180px;
+    right: 180px;
 }
-.mid-title-large-2 h1{
+
+.mid-title-large-2 h1 {
     position: absolute;
     font-size: 20px;
 }
-.mid-title-small-2{
+
+.mid-title-small-2 {
     position: absolute;
     width: 30%;
     left: 450px;
     top: 360px;
+}
+
+/* img-3 */
+
+.img-3 {
+    width: 100%;
+    text-align: right;
+}
+
+.top-title-3 {
+    position: absolute;
+    bottom: 160px;
+    right: 350px;
+}
+
+.top-title-3 h1 {
+    font-size: medium;
+    color: #ffffff;
+    background-color: #3184c6;
+}
+
+.mid-title-large-3 {
+    position: absolute;
+    width: 30%;
+    bottom: 180px;
+    right: 350px;
+}
+
+.mid-title-large-3 h1 {
+    position: absolute;
+    font-size: 20px;
+    text-align: right;
+}
+
+.mid-title-3 {
+    position: absolute;
+    width: 30%;
+    left: 450px;
+    bottom: 60px;
+    text-align: right;
+}
+
+/* img-4 */
+.img-4 {
+    text-align: right;
+    bottom: 100px;
+}
+.top-title-4{
+    width: 20%;
+    position: absolute;
+    bottom: 60px;
+    right: 230px;
+}
+.top-title-4 h1{
+    font-size: 15px;
+    text-align: right;
+}
+.img-5{
+    position: absolute;
+    text-align: center;
+    bottom: 30px;
+    right: 450px;
+}
+.img-5-title{
+    width: 20%;
+    position: absolute;
+    text-align: center;
+    bottom: 70px;
+    left: 320px;
+}
+.img-5-title h1{
+    font-size: 15px;
+    text-align: right;
 }
