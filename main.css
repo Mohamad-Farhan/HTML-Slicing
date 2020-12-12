@@ -436,7 +436,6 @@
 .img-6 {
     position: absolute;
     left: 350px;
-    border-bottom: 1px solid #dddddd;
 }
 
 .img-6-button {
@@ -575,7 +574,7 @@
     font-size: 15px;
     padding: 5px;
     background-color: #3184c6;
-    color: #dddddd;
+    color: #ffffff;
     bottom: -70px;
     margin-left: 50px;
 }
@@ -619,4 +618,89 @@
     bottom: -40px;
     right: -50px;
     color: #999999;
+}
+
+/* banner area 3 */
+.text-title-afterImg {
+    position: absolute;
+    top: 520px;
+    right: 100px;
+}
+
+.text-title-afterImg h1 {
+    font-size: 15px;
+    background-color: #3184c6;
+    padding: 5px;
+    color: #ffffff;
+}
+
+.text-title-afterImg h2 {
+    padding: 0px;
+}
+
+.text-title-2 {
+    position: absolute;
+    top: 570px;
+    right: 100px;
+    text-align: right;
+}
+
+.text-title-2 h2 {
+    font-size: 22px;
+    font: bold;
+}
+
+.text-title-2 p {
+    font-size: small;
+    width: 100%;
+    text-align: right;
+    position: absolute;
+}
+/* img-15 */
+.img-15{
+    position: absolute;
+    right: 100px;
+    top: 600px;
+}
+.text-title-3 h2{
+    position: absolute;
+    text-align: right;
+    top: 150px;
+    font-size: medium;
+    width: 40%;
+    right: 140px;
+}
+/* img-16 */
+.img-16{
+    position: absolute;
+    left: 370px;
+    top: 675px;
+}
+.text-title-4 h2{
+    position: absolute;
+    text-align: right;
+    top: 80px;
+    font-size: medium;
+    width: 80%;
+    right: 140px;
+}
+.text-title-4 h3{
+    position: absolute;
+    width: 100%;
+    text-align: right;
+    font-size: medium;
+    left: 400px;
+}
+.img-17{
+    position: absolute;
+    left: 100px;
+    bottom: -50px;
+}
+.text-title-4 h4{
+    position: absolute;
+    width: 100%;
+    text-align: right;
+    font-size: medium;
+    right: 130px;
+    margin-top: -20px;
 }
