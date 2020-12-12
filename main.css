@@ -184,19 +184,19 @@
 }
 
 .banner-text {
-    max-width: 450px;
-    width: 100%;
+    width: 35%;
     position: absolute;
     text-align: right;
     bottom: 50px;
     right: 250px;
-    background-color: #070708;
-    opacity: 0.8;
+
 }
 
 .banner-text h1 {
     font-size: 32px;
     color: #efefef;
+    background-color: #070708;
+    opacity: 0.8;
 }
 
 .banner-table {
@@ -656,13 +656,15 @@
     text-align: right;
     position: absolute;
 }
+
 /* img-15 */
-.img-15{
+.img-15 {
     position: absolute;
     right: 100px;
     top: 600px;
 }
-.text-title-3 h2{
+
+.text-title-3 h2 {
     position: absolute;
     text-align: right;
     top: 150px;
@@ -670,13 +672,15 @@
     width: 40%;
     right: 140px;
 }
+
 /* img-16 */
-.img-16{
+.img-16 {
     position: absolute;
     left: 370px;
     top: 675px;
 }
-.text-title-4 h2{
+
+.text-title-4 h2 {
     position: absolute;
     text-align: right;
     top: 80px;
@@ -684,23 +688,80 @@
     width: 80%;
     right: 140px;
 }
-.text-title-4 h3{
+
+.text-title-4 h3 {
     position: absolute;
-    width: 100%;
+    width: 140%;
     text-align: right;
     font-size: medium;
-    left: 400px;
+    left: 300px;
 }
-.img-17{
+
+.img-17 {
     position: absolute;
     left: 100px;
     bottom: -50px;
 }
-.text-title-4 h4{
+
+.text-title-4 h4 {
     position: absolute;
     width: 100%;
     text-align: right;
     font-size: medium;
     right: 130px;
     margin-top: -20px;
+}
+
+.img-18 {
+    position: absolute;
+    right: -400px;
+    bottom: -150px;
+}
+
+.text-title-4 h5 {
+    position: absolute;
+    width: 85%;
+    text-align: right;
+    font-size: medium;
+    bottom: -130px;
+    right: -260px;
+}
+
+.text-title-4 h6 {
+    position: absolute;
+    width: 140%;
+    text-align: right;
+    font-size: medium;
+    right: 5px;
+    bottom: -130px;
+}
+
+.img-19 {
+    position: absolute;
+    right: -400px;
+    bottom: -275px;
+}
+
+.text-title-4 h7 {
+    position: absolute;
+    width: 90%;
+    text-align: right;
+    font-size: medium;
+    right: -270px;
+    bottom: -240px;
+    text-align: bold;
+}
+
+.img-20 {
+    position: absolute;
+    left: 100px;
+    bottom: -275px;
+}
+
+.img-20 p {
+    position: absolute;
+    width: 150%;
+    text-align: right;
+    top: 20px;
+    right: 150px;
 }
