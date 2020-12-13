@@ -1,0 +1,179 @@
+/* banner area 3 */
+.text-title-afterImg {
+    position: absolute;
+    top: 520px;
+    right: 100px;
+}
+
+.text-title-afterImg h1 {
+    font-size: 15px;
+    background-color: #3184c6;
+    padding: 5px;
+    color: #ffffff;
+}
+
+.text-title-afterImg h2 {
+    padding: 0px;
+}
+
+.text-title-2 {
+    position: absolute;
+    top: 570px;
+    right: 100px;
+    text-align: right;
+}
+
+.text-title-2 h2 {
+    font-size: 22px;
+    font: bold;
+}
+
+.text-title-2 p {
+    font-size: small;
+    width: 100%;
+    text-align: right;
+    position: absolute;
+}
+
+/* img-15 */
+.img-15 {
+    position: absolute;
+    right: 100px;
+    top: 600px;
+}
+
+.text-title-3 h2 {
+    position: absolute;
+    text-align: right;
+    top: 150px;
+    font-size: medium;
+    width: 40%;
+    right: 140px;
+}
+
+/* img-16 */
+.img-16 {
+    position: absolute;
+    left: 370px;
+    top: 675px;
+}
+
+.text-title-4 h2 {
+    position: absolute;
+    text-align: right;
+    top: 80px;
+    font-size: medium;
+    width: 80%;
+    right: 140px;
+}
+
+.text-title-4 h3 {
+    position: absolute;
+    width: 140%;
+    text-align: right;
+    font-size: medium;
+    left: 300px;
+}
+
+.img-17 {
+    position: absolute;
+    left: 100px;
+    bottom: -50px;
+}
+
+.text-title-4 h4 {
+    position: absolute;
+    width: 100%;
+    text-align: right;
+    font-size: medium;
+    right: 130px;
+    margin-top: -20px;
+}
+
+.img-18 {
+    position: absolute;
+    right: -400px;
+    bottom: -150px;
+}
+
+.text-title-4 h5 {
+    position: absolute;
+    width: 85%;
+    text-align: right;
+    font-size: medium;
+    bottom: -130px;
+    right: -260px;
+}
+
+.text-title-4 h6 {
+    position: absolute;
+    width: 140%;
+    text-align: right;
+    font-size: medium;
+    right: 5px;
+    bottom: -130px;
+}
+
+.img-19 {
+    position: absolute;
+    right: -400px;
+    bottom: -275px;
+}
+
+.text-title-4 h7 {
+    position: absolute;
+    width: 90%;
+    text-align: right;
+    font-size: medium;
+    right: -270px;
+    bottom: -240px;
+    text-align: bold;
+}
+
+.img-20 {
+    position: absolute;
+    left: 100px;
+    bottom: -275px;
+}
+
+.img-20 p {
+    position: absolute;
+    width: 150%;
+    text-align: right;
+    top: 20px;
+    right: 150px;
+}
+
+/* left-area-2 */
+.left-area-2 {
+    position: absolute;
+    top: 450px;
+    left: 120px;
+}
+
+.img-21-text {
+    position: absolute;
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+    bottom: 20px;
+    right: 130px;
+}
+
+.img-21-text h2 {
+    font-size: medium;
+}
+
+.img-22-text {
+    position: absolute;
+    text-align: right;
+    width: 100%;
+    font-size: 20px;
+    top: 100px;
+    right: 130px;
+}
+
+.img-22-text h2 {
+    font-size: medium;
+}
+

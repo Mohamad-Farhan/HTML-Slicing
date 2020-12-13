@@ -1,0 +1,173 @@
+.header_area {
+    width: 100%;
+    background: rgb(100, 172, 224);
+    background: linear-gradient(0deg, rgba(100, 172, 224, 1) 0%, rgba(43, 106, 151, 1) 100%);
+}
+
+/* claender */
+.calender_area {
+    width: 100%;
+    clear: both;
+}
+
+.calender_area ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-bottom: 1px solid #6298be;
+}
+
+.calender_area ul li {
+    display: inline-block;
+    color: #d7e4ed;
+
+}
+
+.calender_area ul li h1 {
+    font-size: large;
+}
+
+.calender_area ul li h2 {
+    font-size: small;
+}
+
+/* weather */
+.weather_area {
+    width: 100%;
+    clear: both;
+}
+
+.weather_area ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.weather_area ul li {
+    display: inline-block;
+    color: #d7e4ed;
+}
+
+.weather_area ul li h2 {
+    font-size: small;
+
+}
+
+.weather_area ul li h1 {
+    font-size: small;
+}
+
+/* social_area */
+.social_area {
+    width: 100%;
+    clear: both;
+    border: 1px solid #6298be;
+    max-width: 150px;
+}
+
+.social_area ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.social_area ul li {
+    display: inline-block;
+}
+
+.social_area ul li a:hover {
+    background-color: #3b86bf
+}
+
+/* Logo */
+.logo {
+    width: 100%;
+    text-align: right;
+}
+
+.logo img {
+    width: 15%;
+}
+
+/* search */
+.search {
+    position: absolute;
+    text-align: right;
+    width: 80%;
+    top: 10px;
+}
+
+.search input {
+    background-color: #0000;
+    border: none;
+    border-bottom: 1px solid #6298be;
+    background: none;
+}
+
+.search button {
+    border: 0px solid;
+    background: none;
+    color: #89aac0;
+}
+
+/* main_menu */
+#main_menu {
+    position: absolute;
+    text-align: right;
+    width: 80%;
+    top: 50px;
+}
+
+#main_menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#main_menu ul li {
+    display: inline-block;
+}
+
+#main_menu ul li a {
+    text-decoration: none;
+}
+
+#main_menu ul li a h1 {
+    display: block;
+    color: #d7e4ed;
+    font-size: large;
+
+    padding: 5px 15px;
+}
+
+#main_menu ul li a h1:hover {
+    background-color: #3b86bf;
+}
+
+/* bedor_header */
+.bedor_header {
+    width: 100%;
+    background: rgb(44, 119, 178);
+    background: linear-gradient(180deg, rgba(44, 119, 178, 1) 0%, rgba(44, 119, 178, 1) 100%);
+}
+
+.bedor_header h1 {
+    text-align: right;
+    width: 90%;
+}
+
+.bedor_header h1 t {
+    background-color: #fff;
+    font-size: 18px;
+}
+
+.bedor_header h2 {
+    position: absolute;
+    text-align: right;
+    width: 84%;
+    font-size: small;
+    top: 155px;
+    color: #fff;
+}
+
