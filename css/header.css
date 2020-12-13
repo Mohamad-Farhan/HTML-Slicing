@@ -99,7 +99,7 @@
 }
 
 .search input {
-    background-color: #0000;
+    background:none;
     border: none;
     border-bottom: 1px solid #6298be;
     background: none;
